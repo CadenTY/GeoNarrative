@@ -1,5 +1,5 @@
 # GeoNarrative
-## Lab 7 Assignment
+## Lab 7 Assignment | By Caden Henson
 
 [Published Page Link](https://cadenty.github.io/GeoNarrative/)
 
